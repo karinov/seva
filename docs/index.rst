@@ -30,7 +30,8 @@ Seva Siap Temani Anda Temukan kendaraan Masa Depan
 
 5 Langkah Mudah Membeli Mobil di Seva Mobil Bekas
 ==================
-Berikut cara-cara sederhana dalam memilih serta menentukan mobil yang pas untuk kamu beli di situs Seva.
+Berikut cara-cara sederhana dalam memilih serta menentukan mobil yang pas untuk kamu beli di situs Seva:
+
 1. Masuk dalam menu "Mobil Bekas" atau "Mobil Baru" sesuai selera Anda
 2. Seva akan memberikan daftar mobil dengan spesifikasi yang sangat lengkap
 3. Adanya fitur `Custom Filter <#fitur-custom-filter>`_ akan mempermudah Anda dalam menyaring jenis mobil yang diinginkan

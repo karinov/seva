@@ -14,7 +14,7 @@ Contents:
 
 Astra International baru-baru ini meluncurkan sekaligus 4 platform digital untuk menyasar market e-commerce di Indonesia, selah satunya lewat Seva mobil bekas. Kian besarnya jumlah pengguna roda empat serta besarnya minat masyarakat pada mobil secondhand membuat hadirnya marketplace SEVA diprediksi akan membuat industri otomotif di Indonesia semakin dinamis.
 
-Lewat tagline #SmartWayToUpgrade, Seva.id hadir sebagai platform jual-beli mobil bekas yang aman, mudah, dan lebih cepat daripada model dealer konvensional. Tak berlebihan apabila para pecinta otomotif melihat kehadiran `Seva Mobil Bekas <https://karinov.co.id/seva-mobil-bekas/>`_ ini berpotensi mengubah cara konsumen belanja mobil di kemudian hari.
+Lewat tagline #SmartWayToUpgrade, Seva.id hadir sebagai platform jual-beli mobil bekas yang aman, mudah, dan lebih cepat daripada model dealer konvensional. Tak berlebihan apabila para pecinta otomotif melihat kehadiran `Seva Mobil Bekas <https://karinov.co.id/seva-mobil-bekas/>`_ ini berpotensi mengubah cara konsumen belanja mobil di kemudian hari. Hadinya fitur `Pilihan Expert <#fitur-pilihan-expert>`_ dan Stock Clearance menjadi salah satu bukti bahwa marketplace Seva Mobil Bekas kaya akan fitur dan promo yang sangat menarik buat pasar pemburu mobil bekas.
 
 
 Indices and tables
@@ -26,7 +26,7 @@ Indices and tables
 
 Seva Siap Temani Anda Temukan kendaraan Masa Depan
 ==================
-#smartwaytoupgrade adalah bagian dari branding yang coba dilakukan Seva dalam rangka meningkatkan minat kaum milenial untuk membeli mobil-mobil keluaran terbaru demi mendongkrak penjualan mobil yang anjlok karena isu pandemi. Seva juga menyediakan mobil bekas berkategori sport dan mewah untuk kalangan atas. Tidak tanggung, mulai dari Nissan Fairlady, Porsche Macan, Chrysler, serta Porsche Cayman ikut dijual melalui fitur `mobil bekas pilihan expert <https://www.fedora.or.id/2020/05/mobil-bekas-mewah-seva.html>`_ Seva.id.
+#Smartwaytoupgrade adalah bagian dari branding yang coba dilakukan Seva dalam rangka meningkatkan minat kaum milenial untuk membeli mobil-mobil keluaran terbaru demi mendongkrak penjualan mobil yang anjlok karena isu pandemi. Seva juga menyediakan mobil bekas berkategori sport dan mewah untuk kalangan atas. Tidak tanggung, mulai dari Nissan Fairlady, Porsche Macan, Chrysler, serta Porsche Cayman ikut dijual melalui fitur `mobil bekas pilihan expert <https://www.fedora.or.id/2020/05/mobil-bekas-mewah-seva.html>`_ Seva.id.
 
 5 Langkah Mudah Membeli Mobil di Seva Mobil Bekas
 ==================
@@ -47,7 +47,7 @@ Gunakan pula beberapa fitur tambahan agar pengalaman belanja mobil lewat marketp
 - Pilihan expert: Mobil bekas dengan kondisi 90% yang terjamin kualitas dan legalitasnya
 - Bandingkan mobil: Jangan sampai salah pilih, lihat matang-matang spesifikasi kendaraan yang ingin dibeli
 - EDokumen: Perpanjang dan perpajakan kendaraan sudah tidak jadi isu lagi, bisa dilakukan secara online mengandalkan Seva.id
-- Jual mobil saya: Anda juga dapat menjual mobl bekas lewat seva, tinggal daftar dan tunggu approval dari tim Seva
+- Jual mobil saya: Anda juga dapat menjual mobil bekas lewat seva, tinggal daftar dan tunggu approval dari tim Seva
 - Suku cadang: Anda juga bisa berbelanja suku cadang mobil seperti Aki dan Oli mobil secara online
 - Stock clearance: Dapatkan potongan harga untuk mobil baru Astra di program stock clearance Seva.id
 - Flash sale Seva: Ikuti penjualan kilat untuk dapatkan mobil anyar dengan harga super miring, jangan sampai ketinggalan!

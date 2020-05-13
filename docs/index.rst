@@ -39,6 +39,7 @@ Berikut cara-cara sederhana dalam memilih serta menentukan mobil yang pas untuk 
 6. Lakukan test drive agar lebih mantap dalam membeli mobil yang Anda inginkan
 
 Gunakan pula beberapa fitur tambahan agar pengalaman belanja mobil lewat marketplace mobil bekas Seva.id lebih mengasyikkan. Berikut beberapa fitur dan layanan utama yang dapat Anda manfaatkan:
+
 - Tukar tambah: Tukar mobil bekas lama Anda dengan mobil baru dari Seva, lebih cepat dan hemat!
 - Test drive: Uji coba mobil impian Anda agar lebih mantap membawa kendaraan baru Anda pulang
 - Booking service: Gunakan layanan servis berkala tanpa antri di bengkel resmi dalam fitur Seva ini

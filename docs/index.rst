@@ -12,9 +12,9 @@ Contents:
    :maxdepth: 2
    :glob:
 
-Astra International baru-baru ini meluncurkan sekaligus 4 platform digital untuk menyasar market e-commerce di Indonesia, selah satunya lewat Seva mobil bekas. Kian besarnya jumlah pengguna roda empat serta besarnya minat masyarakat pada mobil secondhand membuat hadirnya marketplace SEVA diprediksi akan membuat industri otomotif di Indonesia semakin dinamis.
+Seva sebagai platform terbaru untuk jual-beli produk otomotif khususnya mobil bekas telah menjadi favorit para pelaku industri kendaraan bermotor di tanah air. Dengan segudang fitur serta program promosi yang memanjakan calon pembeli mobil, Seva berkomitmen untuk menjadi portal solusi bagi segala macam transaksi otomotif mulai dari jual beli, suku cadang, servis berkala, bahkan pajak kendaraan. Dalam halaman ini, laman `Seva Readthedocs <https://sevaid.readthedocs.io/>`_ akan memberikan tutorial singkat apa itu Seva.id dan apa saja keunggulan jual beli mobil bekas lewat platform Seva yang merupakan anak perusahaan PT Astra International Tbk. ini.
 
-Lewat tagline #SmartWayToUpgrade, Seva.id hadir sebagai platform jual-beli mobil bekas yang aman, mudah, dan lebih cepat daripada model dealer konvensional. Tak berlebihan apabila para pecinta otomotif melihat kehadiran `Seva Mobil Bekas <https://karinov.co.id/seva-mobil-bekas/>`_ ini berpotensi mengubah cara konsumen belanja mobil di kemudian hari. Hadinya fitur `Pilihan Expert <#fitur-pilihan-expert>`_ dan Stock Clearance menjadi salah satu bukti bahwa marketplace Seva Mobil Bekas kaya akan fitur dan promo yang sangat menarik buat pasar pemburu mobil bekas.
+Lewat tagline #SmartWayToUpgrade, Seva.id hadir sebagai situs jual-beli mobil bekas yang modern, simpel, dan lebih nyaman jika dibandingkan dengan situs jual beli mobil lainnya. Tak berlebihan apabila para pecinta otomotif melihat kehadiran `Seva Mobil Bekas <https://karinov.co.id/seva-mobil-bekas/>`_ ini berpotensi mengubah cara konsumen belanja mobil di kemudian hari. Hadinya fitur `Pilihan Expert <#fitur-pilihan-expert>`_ dan Stock Clearance menjadi salah satu bukti bahwa marketplace Seva Mobil Bekas kaya akan fitur dan promo yang sangat menarik buat pasar pemburu mobil bekas.
 
 
 Indices and tables

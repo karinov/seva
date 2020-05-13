@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Repository Digital Marketing Indonesia | by Karinov.co.id
+Seva Layanan Otomotif Mobil Bekas Berkualitas
 ==================================================
 
 Contents:
@@ -23,13 +23,9 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Karinov Media Network 
+Seva Siap Temani Anda Temukan kendaraan Masa Depan
 ==================
-- `jasa digital marketing indonesia <https://karinov.co.id/>`_
-- `navigasi pariwisata indonesia <https://www.navi.id>`_
-- `skema box speaker dan review audio terbaru <https://www.fedora.or.id>`_ 
-- `kumpulan tautan berita terbaru indonesia <https://blogs.itb.ac.id/feeds>`_ 
-- `direktori service center indonesia <https://www.autobild.co.id>`_ 
+#smartwaytoupgrade adalah bagian dari branding yang coba dilakukan Seva untuk meningkatkan minat kaum milenial untuk membeli mobil-mobi keluaran terbaru demi mendongkrak penjualan mobil yang anlok karena isu pandemi.
 
 Mengenal E-A-T Algoritma SEO Mutakhir dari Google
 ==================

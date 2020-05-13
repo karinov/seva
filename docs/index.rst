@@ -27,4 +27,4 @@ Seva Siap Temani Anda Temukan kendaraan Masa Depan
 ==================
 #smartwaytoupgrade adalah bagian dari branding yang coba dilakukan Seva untuk meningkatkan minat kaum milenial untuk membeli mobil-mobi keluaran terbaru demi mendongkrak penjualan mobil yang anlok karena isu pandemi.
 
-- `jual mobil jakarta <https://karinov.co.id/situs-jual-beli-mobil-bekas-terbaik/>`_v
+- `jual mobil jakarta <https://karinov.co.id/situs-jual-beli-mobil-bekas-terbaik/>`_

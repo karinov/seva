@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Seva Layanan Otomotif Mobil Bekas Berkualitas
+Seva Mobil Bekas Tawarkan Kemudahan Cari Mobil Kondisi 90% dengan Pilihan Expert
 ==================================================
 
 Contents:
@@ -14,7 +14,7 @@ Contents:
 
 Seva sebagai platform terbaru untuk jual-beli produk otomotif khususnya mobil bekas telah menjadi favorit para pelaku industri kendaraan bermotor di tanah air. Dengan segudang fitur serta program promosi yang memanjakan calon pembeli mobil, Seva berkomitmen untuk menjadi portal solusi bagi segala macam transaksi otomotif mulai dari jual beli, suku cadang, servis berkala, bahkan pajak kendaraan. Dalam halaman ini, laman `Seva Readthedocs <https://sevaid.readthedocs.io/>`_ akan memberikan tutorial singkat apa itu Seva.id dan apa saja keunggulan jual beli mobil bekas lewat platform Seva yang merupakan anak perusahaan PT Astra International Tbk. ini.
 
-Lewat tagline #SmartWayToUpgrade, Seva.id hadir sebagai situs jual-beli mobil bekas yang modern, simpel, dan lebih nyaman jika dibandingkan dengan situs jual beli mobil lainnya. Tak berlebihan apabila para pecinta otomotif melihat kehadiran `Seva Mobil Bekas <https://karinov.co.id/seva-mobil-bekas/>`_ ini berpotensi mengubah cara konsumen belanja mobil di kemudian hari. Hadinya fitur `Pilihan Expert <#fitur-pilihan-expert>`_ dan Stock Clearance menjadi salah satu bukti bahwa marketplace Seva Mobil Bekas kaya akan fitur dan promo yang sangat menarik buat pasar pemburu mobil bekas.
+Lewat tagline #SmartWayToUpgrade, Seva.id hadir sebagai situs jual-beli mobil bekas yang modern, simpel, dan lebih nyaman jika dibandingkan dengan situs jual beli mobil lainnya. Tak berlebihan apabila para pecinta otomotif melihat kehadiran `Seva Mobil Bekas <https://www.dmo.or.id/layanan-seva-mobil-bekas/>`_ ini berpotensi mengubah cara konsumen belanja mobil di kemudian hari. Hadinya fitur `Pilihan Expert <#fitur-pilihan-expert>`_ dan Stock Clearance menjadi salah satu bukti bahwa marketplace Seva Mobil Bekas kaya akan fitur dan promo yang sangat menarik buat pasar pemburu mobil bekas.
 
 
 Indices and tables
@@ -26,7 +26,7 @@ Indices and tables
 
 Seva Siap Temani Anda Temukan kendaraan Masa Depan
 ==================
-#Smartwaytoupgrade adalah bagian dari branding yang coba dilakukan Seva dalam rangka meningkatkan minat kaum milenial untuk membeli mobil-mobil keluaran terbaru demi mendongkrak penjualan mobil yang anjlok karena isu pandemi. Seva juga menyediakan mobil bekas berkategori sport dan mewah untuk kalangan atas. Tidak tanggung, mulai dari Nissan Fairlady, Porsche Macan, Chrysler, serta Porsche Cayman ikut dijual melalui fitur `mobil bekas pilihan expert <https://www.fedora.or.id/2020/05/mobil-bekas-mewah-seva.html>`_ Seva.id.
+*#Smartwaytoupgrade* adalah bagian dari branding yang coba dilakukan Seva dalam rangka meningkatkan minat kaum milenial untuk membeli mobil-mobil keluaran terbaru demi mendongkrak penjualan mobil yang anjlok karena isu pandemi. Seva juga menyediakan mobil bekas berkategori sport dan mewah untuk kalangan atas. Tidak tanggung, mulai dari Nissan Fairlady, Porsche Macan, Chrysler, serta Porsche Cayman ikut dijual melalui fitur `mobil bekas pilihan expert <https://www.fedora.or.id/2020/05/mobil-bekas-mewah-seva.html>`_ Seva.id.
 
 5 Langkah Mudah Membeli Mobil di Seva Mobil Bekas
 ==================
@@ -39,7 +39,7 @@ Berikut cara-cara sederhana dalam memilih serta menentukan mobil yang pas untuk 
 5. Klik tombol "Order Sekarang" dan tim sales representative dari Seva akan segera menghubungi Anda
 6. Lakukan test drive agar lebih mantap dalam membeli mobil yang Anda inginkan
 
-Gunakan pula beberapa fitur tambahan agar pengalaman belanja mobil lewat marketplace mobil bekas Seva.id lebih mengasyikkan. Berikut beberapa fitur dan layanan utama yang dapat Anda manfaatkan:
+Gunakan pula beberapa fitur tambahan agar pengalaman belanja mobil lewat `marketplace mobil bekas <https://www.autobild.co.id/2020/04/cara-kerja-seva-mobil-bekas.html>`_ Seva.id lebih mengasyikkan. Berikut beberapa fitur dan layanan utama yang dapat Anda manfaatkan:
 
 - Tukar tambah: Tukar mobil bekas lama Anda dengan mobil baru dari Seva, lebih cepat dan hemat!
 - Test drive: Uji coba mobil impian Anda agar lebih mantap membawa kendaraan baru Anda pulang
@@ -68,8 +68,8 @@ Buat kamu yang belum tahu apa itu Pilihan Expert di Seva Mobil Bekas, fitur ini 
 - Dokumen mobil lengkap seperti bukti service, buku manual, serta surat-surat legalitas kendaraan
 - Setiap mobil bekas sudah dilengkapi dengan kunci cadangan
 
-Dengan adanya jaminan keenam faktor di atas, tentu sebagian besar kekhawatiran konsumen saat akan membeli mobil bekas akan langsung sirna. Mengingat sebagian besar konsumen mobil bekas adalah masyarakat awam yang tidak begitu paham `dunia otomotif <https://www.dmo.or.id/seva-mobil-bekas-dari-astra/>`_, adanya kurasi dari tim ahli Seva akan sangat membantu meningatkan kepercayaan calon konsumen mobil bekas.
+Dengan adanya jaminan keenam faktor di atas, tentu sebagian besar kekhawatiran konsumen saat akan membeli mobil bekas akan langsung sirna. Mengingat sebagian besar konsumen mobil bekas adalah masyarakat awam yang tidak begitu paham dunia otomotif, adanya kurasi dari tim ahli Seva akan sangat membantu meningatkan kepercayaan calon konsumen mobil bekas.
 
 Fitur Custom Filter
 ==================
-Jika kita bicara mengenai "mobil bekas" tentu spektrum nya akan sangat luas. Mulai dari mobil bekas tahun lawas hingga super car yang sehari-hari hanya mejeng di garasi pribadi. Oleh karena itu, dengan adanya fitur ini, Anda bisa lebih spesifik menyaring jenis mobil bekas mana yang paling sesuai dengan kebutuhan Anda.
+Jika kita bicara mengenai "mobil bekas" tentu spektrum nya akan sangat luas. Mulai dari mobil bekas tahun lawas hingga super car yang sehari-hari hanya mejeng di garasi pribadi. Oleh karena itu, dengan lengkapnya `layanan Seva <https://medium.com/@wpinstan/seva-mobil-bekas-layanan-otomotif-berkualitas-dari-astra-cbd69ac4c8e6>`_ ini, Anda bisa lebih spesifik menyaring jenis mobil bekas mana yang paling sesuai dengan kebutuhan Anda.

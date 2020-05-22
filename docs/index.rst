@@ -73,3 +73,5 @@ Dengan adanya jaminan keenam faktor di atas, tentu sebagian besar kekhawatiran k
 Fitur Custom Filter
 ==================
 Jika kita bicara mengenai "mobil bekas" tentu spektrum nya akan sangat luas. Mulai dari mobil bekas tahun lawas hingga super car yang sehari-hari hanya mejeng di garasi pribadi. Oleh karena itu, dengan lengkapnya `layanan Seva <https://medium.com/@wpinstan/seva-mobil-bekas-layanan-otomotif-berkualitas-dari-astra-cbd69ac4c8e6>`_ ini, Anda bisa lebih spesifik menyaring jenis mobil bekas mana yang paling sesuai dengan kebutuhan Anda.
+
+credit: https://sevamobilbekas.academia.edu/

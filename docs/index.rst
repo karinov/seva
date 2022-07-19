@@ -14,7 +14,7 @@ Contents:
 
 Seva sebagai platform terbaru untuk jual-beli produk otomotif khususnya mobil bekas telah menjadi favorit para pelaku industri kendaraan bermotor di tanah air. Dengan segudang fitur serta program promosi yang memanjakan calon pembeli mobil, Seva berkomitmen untuk menjadi portal solusi bagi segala macam transaksi otomotif mulai dari jual beli, suku cadang, servis berkala, bahkan pajak kendaraan. Dalam halaman ini, laman `Seva Readthedocs <https://sevaid.readthedocs.io/>`_ akan memberikan tutorial singkat apa itu Seva.id dan apa saja keunggulan jual beli mobil bekas lewat platform Seva yang merupakan anak perusahaan PT Astra International Tbk. ini.
 
-Lewat tagline #SmartWayToUpgrade, Seva.id hadir sebagai situs jual-beli mobil bekas yang modern, simpel, dan lebih nyaman jika dibandingkan dengan situs jual beli mobil lainnya. Tak berlebihan apabila para pecinta otomotif melihat kehadiran `Seva Mobil Bekas <https://www.dmo.or.id/layanan-seva-mobil-bekas/>`_ ini berpotensi mengubah cara konsumen belanja mobil di kemudian hari. Hadinya fitur `Pilihan Expert <#fitur-pilihan-expert>`_ dan Stock Clearance menjadi salah satu bukti bahwa marketplace Seva Mobil Bekas kaya akan fitur dan promo yang sangat menarik buat pasar pemburu mobil bekas.
+Lewat tagline #SmartWayToUpgrade, Seva.id hadir sebagai situs jual-beli mobil bekas yang modern, simpel, dan lebih nyaman jika dibandingkan dengan situs jual beli mobil lainnya. Tak berlebihan apabila para pecinta otomotif melihat kehadiran Seva Mobil Bekas ini berpotensi mengubah cara konsumen belanja mobil di kemudian hari. Hadinya fitur `Pilihan Expert <#fitur-pilihan-expert>`_ dan Stock Clearance menjadi salah satu bukti bahwa marketplace Seva Mobil Bekas kaya akan fitur dan promo yang sangat menarik buat pasar pemburu mobil bekas.
 
 
 Indices and tables
@@ -39,7 +39,7 @@ Berikut cara-cara sederhana dalam memilih serta menentukan mobil yang pas untuk 
 5. Klik tombol "Order Sekarang" dan tim sales representative dari Seva akan segera menghubungi Anda
 6. Lakukan test drive agar lebih mantap dalam membeli mobil yang Anda inginkan
 
-Gunakan pula beberapa fitur tambahan agar pengalaman belanja mobil lewat `marketplace mobil bekas <https://www.autobild.co.id/2020/04/cara-kerja-seva-mobil-bekas.html>`_ Seva.id lebih mengasyikkan. Berikut beberapa fitur dan layanan utama yang dapat Anda manfaatkan:
+Gunakan pula beberapa fitur tambahan agar pengalaman belanja mobil lewat marketplace mobil bekas Seva.id lebih mengasyikkan. Berikut beberapa fitur dan layanan utama yang dapat Anda manfaatkan:
 
 - Tukar tambah: Tukar mobil bekas lama Anda dengan mobil baru dari Seva, lebih cepat dan hemat!
 - Test drive: Uji coba mobil impian Anda agar lebih mantap membawa kendaraan baru Anda pulang
@@ -72,6 +72,10 @@ Dengan adanya jaminan keenam faktor di atas, tentu sebagian besar kekhawatiran k
 
 Fitur Custom Filter
 ==================
-Jika kita bicara mengenai "mobil bekas" tentu spektrum nya akan sangat luas. Mulai dari mobil bekas tahun lawas hingga super car yang sehari-hari hanya mejeng di garasi pribadi. Oleh karena itu, dengan lengkapnya `layanan Seva <https://medium.com/@wpinstan/seva-mobil-bekas-layanan-otomotif-berkualitas-dari-astra-cbd69ac4c8e6>`_ ini, Anda bisa lebih spesifik menyaring jenis mobil bekas mana yang paling sesuai dengan kebutuhan Anda.
+Jika kita bicara mengenai "mobil bekas" tentu spektrum nya akan sangat luas. Mulai dari mobil bekas tahun lawas hingga super car yang sehari-hari hanya mejeng di garasi pribadi. Oleh karena itu, dengan lengkapnya layanan Seva ini, Anda bisa lebih spesifik menyaring jenis mobil bekas mana yang paling sesuai dengan kebutuhan Anda.
 
-credit: https://sevamobilbekas.academia.edu/
+Artikel yang relevan:
+
+- https://soundtext.readthedocs.io/
+- https://gbmods.readthedocs.io/
+- https://taichi.readthedocs.io/
